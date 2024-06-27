@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://app.localmate.link/$1"
+ }
+  ]
+}
